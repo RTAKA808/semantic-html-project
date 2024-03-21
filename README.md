@@ -1,1 +1,1 @@
-# semantic-html-project
+Using semantic HTML and optimizing CSS to refactor the existing code.
